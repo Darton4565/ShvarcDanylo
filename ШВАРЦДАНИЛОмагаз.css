@@ -1,0 +1,2065 @@
+#home {
+    background-image: url(templatemo_body_home.png);
+}
+body {
+    margin: 0;
+    padding: 0;
+    color: #666;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 13px;
+    line-height: 1.4em;
+    background-color: #f7f7f7;
+    background-repeat: repeat-x;
+    background-position: top;
+}
+
+таблица стилей агента пользователя
+body {
+    display: block;
+    margin: 8px;
+}
+
+element.style {
+    left: 223.391px;
+    top: 150px;
+    overflow: hidden;
+    height: 0px;
+    display: block;
+}
+.toplevelshadow {
+    opacity: 0.5;
+}
+.ddshadow {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 0;
+    height: 0;
+}
+
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+
+element.style {
+    left: 110.156px;
+    top: 150px;
+}
+.toplevelshadow {
+    opacity: 0.5;
+}
+.ddshadow {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 0;
+    height: 0;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+
+#templatemo_wrapper {
+    width: 960px;
+    padding: 0 10px;
+    margin: 0 auto;
+}
+
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+
+#templatemo_header {
+    width: 960px;
+    height: 100px;
+}
+
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+
+#site_title {
+    float: left;
+    margin-top: 30px;
+}
+
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+
+#site_title h1 {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    font-size: 30px;
+    margin: 0 0 30px;
+    padding: 5px 0;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #333;
+    font-weight: normal;
+}
+таблица стилей агента пользователя
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+#site_title h1 a {
+    display: block;
+    width: 120px;
+    padding: 50px 0 0 85px;
+    font-size: 12px;
+    color: #999;
+    text-align: left;
+    background: url(templatemo_logo.png) no-repeat top left;
+}
+a, a:link, a:visited {
+    color: #666;
+    font-weight: normal;
+    text-decoration: none;
+}
+таблица стилей агента пользователя
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+h1 {
+    font-size: 30px;
+    margin: 0 0 30px;
+    padding: 5px 0;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #333;
+    font-weight: normal;
+}
+таблица стилей агента пользователя
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+#site_title h1 {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    font-size: 30px;
+    margin: 0 0 30px;
+    padding: 5px 0;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #333;
+    font-weight: normal;
+}
+таблица стилей агента пользователя
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+#site_title {
+    float: left;
+    margin-top: 30px;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+
+#header_right {
+    float: right;
+    display: inline-block;
+    padding-top: 20px;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+body {
+    margin: 0;
+    padding: 0;
+    color: #666;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 13px;
+    line-height: 1.4em;
+    background-color: #f7f7f7;
+    background-repeat: repeat-x;
+    background-position: top;
+}
+
+#language {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+таблица стилей агента пользователя
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+#language li {
+    float: right;
+    display: block;
+    margin-left: 5px;
+}
+таблица стилей агента пользователя
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+#language {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+таблица стилей агента пользователя
+ul {
+    list-style-type: disc;
+}
+
+a, a:link, a:visited {
+    color: #666;
+    font-weight: normal;
+    text-decoration: none;
+}
+таблица стилей агента пользователя
+li {
+    text-align: -webkit-match-parent;
+}
+#language {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+таблица стилей агента пользователя
+ul {
+    list-style-type: disc;
+}
+
+a, a:link, a:visited {
+    color: #666;
+    font-weight: normal;
+    text-decoration: none;
+}
+таблица стилей агента пользователя
+li {
+    text-align: -webkit-match-parent;
+}
+#language {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+таблица стилей агента пользователя
+ul {
+    list-style-type: disc;
+}
+
+#language li {
+    float: right;
+    display: block;
+    margin-left: 5px;
+}
+таблица стилей агента пользователя
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+.cleaner {
+    clear: both;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+
+#templatemo_search {
+    clear: both;
+    margin-top: 5px;
+    width: 232px;
+    height: 31px;
+    background: url(templatemo_searchbox.png);
+}
+
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+
+#templatemo_search form {
+    margin: 0;
+    padding: 0;
+}
+таблица стилей агента пользователя
+form {
+    display: block;
+    margin-top: 0em;
+}
+
+#templatemo_search .txt_field {
+    float: left;
+    display: block;
+    height: 30px;
+    line-height: 20px;
+    width: 180px;
+    color: #999;
+    font-size: 12px;
+    padding: 0 5px;
+    font-variant: normal;
+    border: none;
+    background: none;
+}
+таблица стилей агента пользователя
+input[type="text" i] {
+    padding: 1px 2px;
+}
+таблица стилей агента пользователя
+input {
+    writing-mode: horizontal-tb !important;
+    font-style: ;
+    font-variant-ligatures: ;
+    font-variant-caps: ;
+    font-variant-numeric: ;
+    font-variant-east-asian: ;
+    font-variant-alternates: ;
+    font-weight: ;
+    font-stretch: ;
+    font-size: ;
+    font-family: ;
+    font-optical-sizing: ;
+    font-kerning: ;
+    font-feature-settings: ;
+    font-variation-settings: ;
+    text-rendering: auto;
+    color: fieldtext;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    appearance: auto;
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    background-color: field;
+    margin: 0em;
+    padding: 1px 2px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+}
+
+#templatemo_search .sub_btn {
+    float: right;
+    display: block;
+    height: 34px;
+    width: 30px;
+    cursor: pointer;
+    border: none;
+    background: none;
+}
+таблица стилей агента пользователя
+input[type="submit" i] {
+    appearance: auto;
+    user-select: none;
+    white-space: pre;
+    align-items: flex-start;
+    text-align: center;
+    cursor: default;
+    box-sizing: border-box;
+    background-color: buttonface;
+    color: buttontext;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: buttonborder;
+    border-image: initial;
+}
+таблица стилей агента пользователя
+input {
+    writing-mode: horizontal-tb !important;
+    font-style: ;
+    font-variant-ligatures: ;
+    font-variant-caps: ;
+    font-variant-numeric: ;
+    font-variant-east-asian: ;
+    font-variant-alternates: ;
+    font-weight: ;
+    font-stretch: ;
+    font-size: ;
+    font-family: ;
+    font-optical-sizing: ;
+    font-kerning: ;
+    font-feature-settings: ;
+    font-variation-settings: ;
+    text-rendering: auto;
+    color: fieldtext;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    appearance: auto;
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    background-color: field;
+    margin: 0em;
+    padding: 1px 2px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+}
+
+#templatemo_search form {
+    margin: 0;
+    padding: 0;
+}
+таблица стилей агента пользователя
+form {
+    display: block;
+    margin-top: 0em;
+}
+
+#templatemo_search {
+    clear: both;
+    margin-top: 5px;
+    width: 232px;
+    height: 31px;
+    background: url(templatemo_searchbox.png);
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+
+#header_right {
+    float: right;
+    display: inline-block;
+    padding-top: 20px;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+
+#templatemo_header {
+    width: 960px;
+    height: 100px;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+
+#templatemo_menu {
+    width: 960px;
+    height: 50px;
+}
+.ddsmoothmenu {
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+
+.ddsmoothmenu ul {
+    z-index: 100;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+таблица стилей агента пользователя
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+.ddsmoothmenu ul li {
+    position: relative;
+    display: inline;
+    float: left;
+}
+таблица стилей агента пользователя
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+.ddsmoothmenu ul {
+    z-index: 100;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+таблица стилей агента пользователя
+ul {
+    list-style-type: disc;
+}
+body {
+    margin: 0;
+    padding: 0;
+    color: #666;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 13px;
+    line-height: 1.4em;
+    background-color: #f7f7f7;
+    background-repeat: repeat-x;
+    background-position: top;
+}
+
+.ddsmoothmenu ul li a.selected, .ddsmoothmenu ul li a:hover {
+    color: #333;
+}
+.ddsmoothmenu ul li a {
+    display: block;
+    padding: 0 30px;
+    height: 45px;
+    line-height: 45px;
+    font-size: 12px;
+    color: #999;
+    text-decoration: none;
+    font-weight: 700;
+    outline: none;
+    text-align: center;
+    background: url(templatemo_menu_divider.png) right center no-repeat;
+}
+a, a:link, a:visited {
+    color: #666;
+    font-weight: normal;
+    text-decoration: none;
+}
+таблица стилей агента пользователя
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.ddsmoothmenu ul li {
+    position: relative;
+    display: inline;
+    float: left;
+}
+таблица стилей агента пользователя
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+z-index: 100;
+}
+.ddsmoothmenu ul li {
+    position: relative;
+    display: inline;
+    float: left;
+}
+таблица стилей агента пользователя
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+.ddsmoothmenu ul li a {
+    display: block;
+    padding: 0 30px;
+    height: 45px;
+    line-height: 45px;
+    font-size: 12px;
+    color: #999;
+    text-decoration: none;
+    font-weight: 700;
+    outline: none;
+    text-align: center;
+    background: url(templatemo_menu_divider.png) right center no-repeat;
+}
+a, a:link, a:visited {
+    color: #666;
+    font-weight: normal;
+    text-decoration: none;
+}
+таблица стилей агента пользователя
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+element.style {
+    display: none;
+    top: 45px;
+    visibility: visible;
+}
+.ddsmoothmenu ul li ul {
+    position: absolute;
+    left: 0;
+    padding: 10px 0 0;
+    display: none;
+    visibility: hidden;
+    background: #ececec;
+    border-bottom: 4px solid #d4d4d4;
+}
+.ddsmoothmenu ul {
+    z-index: 100;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+таблица стилей агента пользователя
+ul ul {
+    list-style-type: circle;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+}
+таблица стилей агента пользователя
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+.ddsmoothmenu ul li ul li {
+    display: list-item;
+    float: none;
+}
+.ddsmoothmenu ul li {
+    position: relative;
+    display: inline;
+    float: left;
+}
+таблица стилей агента пользователя
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+.ddsmoothmenu ul li ul li a {
+    font-weight: 400;
+    width: 130px;
+    height: 30px;
+    padding: 0 30px;
+    line-height: 30px;
+    font-size: 11px;
+    text-align: left;
+    background: none;
+    color: #666;
+    border-bottom: 1px dotted #999;
+}
+.ddsmoothmenu ul li a {
+    display: block;
+    padding: 0 30px;
+    height: 45px;
+    line-height: 45px;
+    font-size: 12px;
+    color: #999;
+    text-decoration: none;
+    font-weight: 700;
+    outline: none;
+    text-align: center;
+    background: url(templatemo_menu_divider.png) right center no-repeat;
+}
+a, a:link, a:visited {
+    color: #666;
+    font-weight: normal;
+    text-decoration: none;
+}
+таблица стилей агента пользователя
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.ddsmoothmenu ul li ul li {
+    display: list-item;
+    float: none;
+}
+.ddsmoothmenu ul li {
+    position: relative;
+    display: inline;
+    float: left;
+}
+таблица стилей агента пользователя
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+element.style {
+    display: none;
+    top: 45px;
+    visibility: visible;
+}
+.ddsmoothmenu ul li ul {
+    position: absolute;
+    left: 0;
+    padding: 10px 0 0;
+    display: none;
+    visibility: hidden;
+    background: #ececec;
+    border-bottom: 4px solid #d4d4d4;
+}
+.ddsmoothmenu ul {
+    z-index: 100;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+таблица стилей агента пользователя
+ul ul {
+    list-style-type: circle;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+}
+таблица стилей агента пользователя
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+element.style {
+    z-index: 100;
+}
+.ddsmoothmenu ul li {
+    position: relative;
+    display: inline;
+    float: left;
+}
+таблица стилей агента пользователя
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+.ddsmoothmenu ul li {
+    position: relative;
+    display: inline;
+    float: left;
+}
+таблица стилей агента пользователя
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+.ddsmoothmenu ul {
+    z-index: 100;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+таблица стилей агента пользователя
+ul {
+    list-style-type: disc;
+}
+body {
+    margin: 0;
+    padding: 0;
+    color: #666;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 13px;
+    line-height: 1.4em;
+    background-color: #f7f7f7;
+    background-repeat: repeat-x;
+    background-position: top;
+}
+
+.ddsmoothmenu ul li a {
+    display: block;
+    padding: 0 30px;
+    height: 45px;
+    line-height: 45px;
+    font-size: 12px;
+    color: #999;
+    text-decoration: none;
+    font-weight: 700;
+    outline: none;
+    text-align: center;
+    background: url(templatemo_menu_divider.png) right center no-repeat;
+}
+a, a:link, a:visited {
+    color: #666;
+    font-weight: normal;
+    text-decoration: none;
+}
+таблица стилей агента пользователя
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+таблица стилей агента пользователя
+li {
+    text-align: -webkit-match-parent;
+}
+.ddsmoothmenu ul {
+    z-index: 100;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+таблица стилей агента пользователя
+ul {
+    list-style-type: disc;
+}
+body {
+    margin: 0;
+    padding: 0;
+    color: #666;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 13px;
+    line-height: 1.4em;
+    background-color: #f7f7f7;
+    background-repeat: repeat-x;
+    background-position: top;
+}
+
+.ddsmoothmenu ul {
+    z-index: 100;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+таблица стилей агента пользователя
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+element.style {
+    clear: left;
+}
+
+#templatemo_menu {
+    width: 960px;
+    height: 50px;
+}
+.ddsmoothmenu {
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+
+#templatemo_middle {
+    height: 840px;
+    height: 200px;
+    padding: 35px 60px;
+    background: url(templatemo_middle.png) no-repeat;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+
+#templatemo_middle img {
+    float: right;
+    margin-left: 60px;
+}
+img {
+    border: none;
+}
+таблица стилей агента пользователя
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
+#templatemo_middle h1 {
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    line-height: 40px;
+    margin-bottom: 15px;
+}
+h1 {
+    font-size: 30px;
+    margin: 0 0 30px;
+    padding: 5px 0;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #333;
+    font-weight: normal;
+}
+таблица стилей агента пользователя
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+#templatemo_middle p {
+    color: #ccc;
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+p {
+    margin: 0 0 10px 0;
+    padding: 0;
+}
+таблица стилей агента пользователя
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+a, a:link, a:visited {
+    color: #666;
+    font-weight: normal;
+    text-decoration: none;
+}
+таблица стилей агента пользователя
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+#templatemo_middle p {
+    color: #ccc;
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+
+#templatemo_middle p {
+    color: #ccc;
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+p {
+    margin: 0 0 10px 0;
+    padding: 0;
+}
+таблица стилей агента пользователя
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+#templatemo_middle a.buy_now {
+    display: inline-block;
+    padding: 8px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    background: #fff;
+    color: #21bdd0;
+}
+a, a:link, a:visited {
+    color: #666;
+    font-weight: normal;
+    text-decoration: none;
+}
+таблица стилей агента пользователя
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+#templatemo_middle {
+    height: 840px;
+    height: 200px;
+    padding: 35px 60px;
+    background: url(templatemo_middle.png) no-repeat;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+
+#templatemo_main_top {
+    width: 960px;
+    height: 12px;
+    background: url(templatemo_main_top.png) no-repeat top;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+
+#templatemo_main {
+    width: 960px;
+    background: url(templatemo_main_middle.png) repeat-y;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+
+#templatemo_main {
+    width: 960px;
+    background: url(templatemo_main_middle.png) repeat-y;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+
+element.style {
+    width: 855px;
+}
+#SlideItMoo_inner {
+    position: relative;
+    overflow: hidden;
+    width: 940px;
+    margin: 0px auto 0px;
+    padding: 10px 0px 10px;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+
+element.style {
+    width: 1267px;
+    margin-left: 0px;
+}
+#SlideItMoo_items {
+    display: block;
+    position: relative;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+
+#SlideItMoo_items div.SlideItMoo_element {
+    display: block;
+    position: relative;
+    float: left;
+    margin: 0px 5px 0px;
+    font-size: 11px;
+    width: 160px;
+    height: 120px;
+    text-align: center;
+    font-family: Verdana, Geneva, sans-serif;
+    color: #000000;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+
+#SlideItMoo_items a {
+    padding: 0px;
+    margin: 3px 0px 3px;
+    clear: both;
+    display: block;
+    background: none;
+    padding: 2px;
+}
+a, a:link, a:visited {
+    color: #666;
+    font-weight: normal;
+    text-decoration: none;
+}
+таблица стилей агента пользователя
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+#SlideItMoo_items a img {
+    border: none;
+}
+img {
+    border: none;
+}
+таблица стилей агента пользователя
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+a, a:link, a:visited {
+    color: #666;
+    font-weight: normal;
+    text-decoration: none;
+}
+таблица стилей агента пользователя
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+}
+
+#SlideItMoo_items a {
+    padding: 0px;
+    margin: 3px 0px 3px;
+    clear: both;
+    display: block;
+    background: none;
+    padding: 2px;
+}
+a, a:link, a:visited {
+    color: #666;
+    font-weight: normal;
+    text-decoration: none;
+}
+таблица стилей агента пользователя
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+#SlideItMoo_items div.SlideItMoo_element {
+    display: block;
+    position: relative;
+    float: left;
+    margin: 0px 5px 0px;
+    font-size: 11px;
+    width: 160px;
+    height: 120px;
+    text-align: center;
+    font-family: Verdana, Geneva, sans-serif;
+    color: #000000;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+element.style {
+    width: 1267px;
+    margin-left: 0px;
+}
+#SlideItMoo_items {
+    display: block;
+    position: relative;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+element.style {
+    width: 855px;
+}
+#SlideItMoo_inner {
+    position: relative;
+    overflow: hidden;
+    width: 940px;
+    margin: 0px auto 0px;
+    padding: 10px 0px 10px;
+}
+
+element.style {
+    width: 905px;
+}
+#SlideItMoo_outer {
+    overflow: hidden;
+    width: 940px;
+    height: 150px;
+    margin: 0 auto;
+    background: none;
+    display: block;
+    position: relative;
+    padding: 0;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+
+element.style {
+}
+.cleaner {
+    clear: both;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+
+#product_slider {
+    padding: 40px 30px 80px 30px;
+    background: url(templatemo_slider.png) bottom center no-repeat;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+#sidebar {
+    float: left;
+    width: 200px;
+    padding: 20px 30px 0 10px;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+
+#sidebar h3 {
+    font-size: 16px;
+    padding: 0 0 15px 0;
+    margin: 0 0 15px 0;
+    background: url(sidebar_header_bg.png) left bottom no-repeat;
+}
+h3 {
+    font-size: 20px;
+    margin: 0 0 20px;
+    padding: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #333;
+    font-weight: normal;
+}
+таблица стилей агента пользователя
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.sidebar_menu {
+    list-style: none;
+    margin: 0 0 30px;
+    padding: 0;
+}
+таблица стилей агента пользователя
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+.sidebar_menu li {
+    margin: 0;
+    padding: 2px 0 3px 15px;
+    background: url(templatemo_list_01.png) no-repeat scroll 0 8px;
+    border-bottom: 1px dotted #ccc;
+}
+таблица стилей агента пользователя
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+.sidebar_menu li a {
+    font-size: 11px;
+}
+a, a:link, a:visited {
+    color: #666;
+    font-weight: normal;
+    text-decoration: none;
+}
+таблица стилей агента пользователя
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.sidebar_menu li {
+    margin: 0;
+    padding: 2px 0 3px 15px;
+    background: url(templatemo_list_01.png) no-repeat scroll 0 8px;
+    border-bottom: 1px dotted #ccc;
+}
+таблица стилей агента пользователя
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+.sidebar_menu li a {
+    font-size: 11px;
+}
+a, a:link, a:visited {
+    color: #666;
+    font-weight: normal;
+    text-decoration: none;
+}
+таблица стилей агента пользователя
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.sidebar_menu {
+    list-style: none;
+    margin: 0 0 30px;
+    padding: 0;
+}
+таблица стилей агента пользователя
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+#sidebar h3 {
+    font-size: 16px;
+    padding: 0 0 15px 0;
+    margin: 0 0 15px 0;
+    background: url(sidebar_header_bg.png) left bottom no-repeat;
+}
+h3 {
+    font-size: 20px;
+    margin: 0 0 20px;
+    padding: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #333;
+    font-weight: normal;
+}
+таблица стилей агента пользователя
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+p {
+    margin: 0 0 10px 0;
+    padding: 0;
+}
+таблица стилей агента пользователя
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+body {
+    margin: 0;
+    padding: 0;
+    color: #666;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 13px;
+    line-height: 1.4em;
+    background-color: #f7f7f7;
+    background-repeat: repeat-x;
+    background-position: top;
+}
+
+#newsletter {
+    margin-bottom: 60px;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+form {
+    display: block;
+    margin-top: 0em;
+}
+
+#newsletter .txt_field {
+    width: 188px;
+    background: #fff;
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin-bottom: 10px;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 11px;
+    color: #999;
+}
+таблица стилей агента пользователя
+input[type="text" i] {
+    padding: 1px 2px;
+}
+таблица стилей агента пользователя
+input {
+    writing-mode: horizontal-tb !important;
+    font-style: ;
+    font-variant-ligatures: ;
+    font-variant-caps: ;
+    font-variant-numeric: ;
+    font-variant-east-asian: ;
+    font-variant-alternates: ;
+    font-weight: ;
+    font-stretch: ;
+    font-size: ;
+    font-family: ;
+    font-optical-sizing: ;
+    font-kerning: ;
+    font-feature-settings: ;
+    font-variation-settings: ;
+    text-rendering: auto;
+    color: fieldtext;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    appearance: auto;
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    background-color: field;
+    margin: 0em;
+    padding: 1px 2px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+}
+
+#newsletter .subscribebtn {
+    float: right;
+    display: inline-block;
+    padding: 4px 10px;
+    font-size: 12px;
+    font-weight: 700;
+    background: #21bdd0;
+    color: #fff;
+    border: none;
+}
+таблица стилей агента пользователя
+input[type="submit" i] {
+    appearance: auto;
+    user-select: none;
+    white-space: pre;
+    align-items: flex-start;
+    text-align: center;
+    cursor: default;
+    box-sizing: border-box;
+    background-color: buttonface;
+    color: buttontext;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: buttonborder;
+    border-image: initial;
+}
+таблица стилей агента пользователя
+input {
+    writing-mode: horizontal-tb !important;
+    font-style: ;
+    font-variant-ligatures: ;
+    font-variant-caps: ;
+    font-variant-numeric: ;
+    font-variant-east-asian: ;
+    font-variant-alternates: ;
+    font-weight: ;
+    font-stretch: ;
+    font-size: ;
+    font-family: ;
+    font-optical-sizing: ;
+    font-kerning: ;
+    font-feature-settings: ;
+    font-variation-settings: ;
+    text-rendering: auto;
+    color: fieldtext;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    appearance: auto;
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    background-color: field;
+    margin: 0em;
+    padding: 1px 2px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+}
+
+form {
+    display: block;
+    margin-top: 0em;
+}
+
+.cleaner {
+    clear: both;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+
+#newsletter {
+    margin-bottom: 60px;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+
+#sidebar {
+    float: left;
+    width: 200px;
+    padding: 20px 30px 0 10px;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+#content {
+    float: right;
+    width: 700px;
+    width: 700px;
+    padding: 20px 10px 20px;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+
+.col_14 {
+    width: 220px;
+}
+.col {
+    float: left;
+    margin-right: 20px;
+}
+.product_gallery {
+    margin-bottom: 60px;
+    text-align: center;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+
+a, a:link, a:visited {
+    color: #666;
+    font-weight: normal;
+    text-decoration: none;
+}
+таблица стилей агента пользователя
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.product_gallery {
+    margin-bottom: 60px;
+    text-align: center;
+}
+body {
+    margin: 0;
+    padding: 0;
+    color: #666;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 13px;
+    line-height: 1.4em;
+    background-color: #f7f7f7;
+    background-repeat: repeat-x;
+    background-position: top;
+}
+
+.product_gallery img {
+    margin-bottom: 5px;
+}
+img {
+    border: none;
+}
+таблица стилей агента пользователя
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
+a, a:link, a:visited {
+    color: #666;
+    font-weight: normal;
+    text-decoration: none;
+}
+таблица стилей агента пользователя
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.product_gallery h3 {
+    font-size: 12px;
+    color: #999;
+    font-weight: 700;
+}
+h3 {
+    font-size: 20px;
+    margin: 0 0 20px;
+    padding: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #333;
+    font-weight: normal;
+}
+таблица стилей агента пользователя
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.product_gallery .product_price {
+    color: #000;
+    font-weight: 700;
+}
+p {
+    margin: 0 0 10px 0;
+    padding: 0;
+}
+таблица стилей агента пользователя
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+a, a:link, a:visited {
+    color: #666;
+    font-weight: normal;
+    text-decoration: none;
+}
+.add_to_cart {
+    display: inline-block;
+    padding-right: 30px;
+    background: url(cart.png) no-repeat right center;
+}
+таблица стилей агента пользователя
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.col_14 {
+    width: 220px;
+}
+.col {
+    float: left;
+    margin-right: 20px;
+}
+.product_gallery {
+    margin-bottom: 60px;
+    text-align: center;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+
+#content {
+    float: right;
+    width: 700px;
+    width: 700px;
+    padding: 20px 10px 20px;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+.cleaner {
+    clear: both;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+
+#templatemo_main {
+    width: 960px;
+    background: url(templatemo_main_middle.png) repeat-y;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+
+#templatemo_footer {
+    width: 940px;
+    padding: 60px 10px 20px;
+    background: url(templatemo_main_bottom.png) top no-repeat;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+
+.col_16 {
+    width: 140px;
+}
+.col {
+    float: left;
+    margin-right: 20px;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+h4 {
+    font-size: 16px;
+    margin: 0 0 15px;
+    padding: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #333;
+    font-weight: normal;
+}
+таблица стилей агента пользователя
+h4 {
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.footer_menu {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+таблица стилей агента пользователя
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+.footer_menu li {
+    margin: 0;
+    padding: 2px 0 3px 0px;
+    border-bottom: 1px dotted #ccc;
+}
+таблица стилей агента пользователя
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+.footer_menu li a {
+    font-size: 11px;
+}
+a, a:link, a:visited {
+    color: #666;
+    font-weight: normal;
+    text-decoration: none;
+}
+таблица стилей агента пользователя
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.footer_menu li {
+    margin: 0;
+    padding: 2px 0 3px 0px;
+    border-bottom: 1px dotted #ccc;
+}
+таблица стилей агента пользователя
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+.footer_menu {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+таблица стилей агента пользователя
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+.col_16 {
+    width: 140px;
+}
+.col {
+    float: left;
+    margin-right: 20px;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+
+.no_margin_right {
+    margin-right: 0;
+}
+.col_13 {
+    width: 300px;
+}
+.col {
+    float: left;
+    margin-right: 20px;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+h4 {
+    font-size: 16px;
+    margin: 0 0 15px;
+    padding: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #333;
+    font-weight: normal;
+}
+таблица стилей агента пользователя
+h4 {
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+p {
+    margin: 0 0 10px 0;
+    padding: 0;
+}
+таблица стилей агента пользователя
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+a, a:link, a:visited {
+    color: #666;
+    font-weight: normal;
+    text-decoration: none;
+}
+таблица стилей агента пользователя
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+strong {
+    font-weight: bold;
+}
+
+a, a:link, a:visited {
+    color: #666;
+    font-weight: normal;
+    text-decoration: none;
+}
+таблица стилей агента пользователя
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+{
+    color: #666;
+    font-weight: normal;
+    text-decoration: none;
+}
+таблица стилей агента пользователя
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+strong {
+    font-weight: bold;
+}
+a, a:link, a:visited {
+    color: #666;
+    font-weight: normal;
+    text-decoration: none;
+}
+таблица стилей агента пользователя
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+}
+
+a, a:link, a:visited {
+    color: #666;
+    font-weight: normal;
+    text-decoration: none;
+}
+таблица стилей агента пользователя
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+p {
+    margin: 0 0 10px 0;
+    padding: 0;
+}
+таблица стилей агента пользователя
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.no_margin_right {
+    margin-right: 0;
+}
+.col_13 {
+    width: 300px;
+}
+.col {
+    float: left;
+    margin-right: 20px;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+
+.h40 {
+    height: 40px;
+}
+.cleaner {
+    clear: both;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+
+center {
+    display: block;
+    text-align: -webkit-center;
+}
+center {
+    display: block;
+    text-align: -webkit-center;
+}
+#templatemo_footer {
+    width: 940px;
+    padding: 60px 10px 20px;
+    background: url(templatemo_main_bottom.png) top no-repeat;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+#templatemo_wrapper {
+    width: 960px;
+    padding: 0 10px;
+    margin: 0 auto;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+}
+#home {
+    background-image: url(templatemo_body_home.png);
+}
+body {
+    margin: 0;
+    padding: 0;
+    color: #666;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 13px;
+    line-height: 1.4em;
+    background-color: #f7f7f7;
+    background-repeat: repeat-x;
+    background-position: top;
+}
+таблица стилей агента пользователя
+body {
+    display: block;
+    margin: 8px;
+}
+:root {
+    view-transition-name: root;
+}
+таблица стилей агента пользователя
+html {
+    display: block;
+}
