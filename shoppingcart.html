@@ -1,0 +1,230 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Web Store - Shopping Cart</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<!-- templatemo 341 web store -->
+<!-- 
+Web Store Template 
+http://www.templatemo.com/preview/templatemo_341_web_store 
+-->
+<link href="style.css" rel="styles.css" type="text/css" />
+
+<link rel="stylesheet" type="text/css" href="style.css" />
+
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/ddsmoothmenu.js">
+
+/***********************************************
+* Smooth Navigational Menu- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+</script>
+
+<script type="text/javascript">
+
+ddsmoothmenu.init({
+	mainmenuid: "templatemo_menu", //menu DIV id
+	orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
+	classname: 'ddsmoothmenu', //class added to menu's outer DIV
+	//customtheme: ["#1c5a80", "#18374a"],
+	contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+})
+
+</script>
+
+<script language="javascript" type="text/javascript">
+function clearText(field)
+{
+	if (field.defaultValue == field.value) field.value = '';
+	else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+
+</head>
+
+<body id="subpage">
+
+<div id="templatemo_wrapper">
+	<div id="templatemo_header">
+    	<div id="site_title">
+        	<h1><a rel="nofollow" href="http://www.templatemo.com/preview/templatemo_341_web_store">Web Store Template</a></h1>
+        </div>
+        
+        <div id="header_right">
+            <ul id="language">
+                <li><a><img src="images/usa.png" alt="English" /></a></li>
+                <li><a><img src="images/china.png" alt="Chinese" /></a></li>
+                <li><a><img src="images/germany.png" alt="Germany" /></a></li>
+                <li><a><img src="images/Ukraine.png" alt="Indian" /></a></li>
+            </ul>
+            <div class="cleaner"></div>
+            <div id="templatemo_search">
+                <form action="#" method="get">
+                  <input type="text" value="Search" name="keyword" id="keyword" title="keyword" onfocus="clearText(this)" onblur="clearText(this)" class="txt_field" />
+                  <input type="submit" name="Search" value="" alt="Search" id="searchbutton" title="Search" class="sub_btn"  />
+                </form>
+            </div>
+         </div> <!-- END -->
+    </div> <!-- END of header -->
+    
+    <div id="templatemo_menu" class="ddsmoothmenu">
+        <ul>
+            <li><a href="index.html">HATA</a></li>
+            <li><a href="products.html" class="selected">Products</a>
+                <ul>
+                    <li><a href="#">Sub menu 1</a></li>
+                    <li><a href="#">Sub menu 2</a></li>
+                    <li><a href="#">Sub menu 3</a></li>
+              </ul>
+            </li>
+            <li><a href="about.html">Pro nas</a>
+                <ul>
+                    <li><a href="#">Sub menu 1</a></li>
+                    <li><a href="#">Sub menu 2</a></li>
+                    <li><a href="#">Sub menu 3</a></li>
+                    <li><a href="#">Sub menu 4</a></li>
+                    <li><a href="#">Sub menu 5</a></li>
+              </ul>
+            </li>
+            <li><a href="faqs.html">FAQs</a></li>
+            <li><a href="checkout.html">OPLATA</a></li>
+            <li><a href="contact.html">DANI</a></li>
+        </ul>
+        <br style="clear: left" />
+    </div> <!-- end of templatemo_menu -->
+    
+    <div class="cleaner h20"></div>
+    <div id="templatemo_main_top"></div>
+    <div id="templatemo_main">
+    	
+        <div id="sidebar">
+        	<h3>Kategorii</h3>
+            <ul class="sidebar_menu">
+			    <li><a href="#">1</a></li>
+                <li><a href="#">2</a></li>				
+                <li><a href="#">3</a></li>
+                <li><a href="#">4</a></li>				
+            	<li><a href="#">5</a></li>
+                <li><a href="#">6</a></li>     
+                <li><a href="#">7</a></li>				
+                <li><a href="#">8</a></li>
+				<li><a href="#">9</a></li>
+				<li><a href="#">11</a></li>
+				<li><a href="#">111</a></li>
+                <li><a href="#">1111</a></li>
+			</ul>
+            <h3>Poshuk</h3>
+            <p>Poshuk</p>
+            <div id="newsletter">
+                <form action="#" method="get">
+                  <input type="text" value="Poshuk" name="email_newsletter" id="email_newsletter" title="email_newsletter" onfocus="clearText(this)" onblur="clearText(this)" class="txt_field" />
+                  <input type="submit" name="subscribe" value="Subscribe" alt="Subscribe" id="subscribebtn" title="Subscribe" class="subscribebtn"  />
+                </form>
+                <div class="cleaner"></div>
+            </div>
+        </div> <!-- END of sidebar -->
+       
+        <div id="content">
+		
+        	<table width="700px" cellspacing="0" cellpadding="5">
+                   	  <tr bgcolor="#CCCCCC">
+                        	<th width="220" align="left">Фотка </th> 
+                        	<th width="180" align="left">Опис </th> 
+                       	  	<th width="100" align="center">Кількість </th> 
+                        	<th width="60" align="right">Ціна за од </th> 
+                        	<th width="60" align="right">Підсумок </th> 
+                        	<th width="90"> </th>
+                            
+                      </tr>
+                    	<tr>
+                        	<td><img src="images/IDan.png" alt="image 01" /></td> 
+                        	<td>Дрочіть скільки влізе</td> 
+                            <td align="center"><input type="text" value="1" style="width: 20px; text-align: right" /> </td>
+                            <td align="right">200 </td> 
+                            <td align="right">Тут я бабахну калькулятор </td>
+                            <td align="center"> <a href="Cart"><img src="images/remove_x.gif" alt="remove" /><br />Remove</a> </td>
+						</tr>
+                        <tr>
+                        	<td><img src="images/Мяч.png" alt="image 02" /> </td>
+                            <td>На завод</td> 
+                       	  	<td align="center"><input type="text" value="1" style="width: 20px; text-align: right" />  </td>
+                            <td align="right">800  </td>
+                            <td align="right">Калькулятор я ще думаю як зробити </td>
+                            <td align="center"> <a href="#"><img src="images/remove_x.gif" alt="remove" /><br />Remove</a>  </td>
+						</tr>
+                        <tr>
+                        	<td colspan="3" align="right"  height="40px">Хочеш обновити корзину? Нажми  <a href="shoppingcart.html"><strong>Обновити</strong></a>&nbsp;&nbsp;</td>
+                            <td align="right" style="background:#ccc; font-weight:bold"> Підсумок </td>
+                            <td align="right" style="background:#ccc; font-weight:bold">Дохуя </td>
+                            <td style="background:#ccc; font-weight:bold"> </td>
+						</tr>
+					</table>
+                    <div style="float:right; width: 215px; margin-top: 20px;">
+                    
+                        <div class="checkout"><a href="checkout.html" class="more">Перейти до оплати</a></div>
+                        <div class="cleaner h20"></div>
+                        <div class="continueshopping"><a href="javascript:history.back()" class="more">Продовжити покупки</a></div>
+                    	
+                    </div>
+            
+		</div>
+        <div class="cleaner"></div>
+    </div> <!-- END of main -->
+    
+    <div id="templatemo_footer">
+    	<div class="col col_16">
+        	<h4>Категорії</h4>
+            <ul class="footer_menu">
+			    <li><a href="#">1</a></li>
+                <li><a href="#">2</a></li>				
+                <li><a href="#">3</a></li>
+                <li><a href="#">4</a></li>				
+		  </ul>  
+        </div>
+        <div class="col col_16">
+        	<h4>Сторінки</h4>
+            <ul class="footer_menu">
+            	<li><a href="#">Хата</a></li>
+                <li><a href="#">1</a></li>
+                <li><a href="#">1</a></li>
+                <li><a href="#">1</a></li>
+			</ul>  
+        </div>
+        <div class="col col_16">
+        	<h4>Партнери</h4>
+            <ul class="footer_menu">
+            	<li><a href="#">Артем</a></li>
+            	<li><a href="#">якщо він зробив</a></li>
+                <li><a href="#">Рекламу</a></li>
+                <li><a href="#">і я</a></li>
+			</ul>  
+        </div>
+        <div class="col col_16">
+        	<h4>Соціалки</h4>
+            <ul class="footer_menu">
+            	<li><a href="#">Ви ітак</a></li>
+                <li><a href="#">на</a></li>
+                <li><a href="#">них</a></li>
+                <li><a href="#">не заходите</a></li> 
+		  </ul>  
+        </div>
+        <div class="col col_13 no_margin_right">
+        	<h4>Про нас</h4>
+            <p> Прочитайте на минулій <a href="http://validator.w3.org/check?uri=referer" rel="nofollow"><strong>Дякую</strong></a> якщо <a href="http://jigsaw.w3.org/css-validator/check/referer" rel="nofollow"><strong>Ви реально щось купили</strong></a>.</p>
+        </div>
+        
+        <div class="cleaner h40"></div>
+		<center>
+			Copyright © 2048 ШВАРЦДАНИЛО <!-- Credit: www.templatemo.com -->
+		</center>
+    </div> <!-- END of footer -->   
+   
+</div>
+
+</body>
+</html>

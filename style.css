@@ -1,5 +1,5 @@
 #home {
-    background-image: url(templatemo_body_home.png);
+    background-image: url(images/templatemo_body_home.png);
 }
 body {
     margin: 0;
@@ -123,7 +123,7 @@ h1 {
     font-size: 12px;
     color: #999;
     text-align: left;
-    background: url(templatemo_logo.png) no-repeat top left;
+    background: url(images/templatemo_logo.png) no-repeat top left;
 }
 a, a:link, a:visited {
     color: #666;
@@ -302,7 +302,7 @@ div {
     margin-top: 5px;
     width: 232px;
     height: 31px;
-    background: url(templatemo_searchbox.png);
+    background: url(images/templatemo_searchbox.png);
 }
 
 таблица стилей агента пользователя
@@ -456,7 +456,7 @@ form {
     margin-top: 5px;
     width: 232px;
     height: 31px;
-    background: url(templatemo_searchbox.png);
+    background: url(images/templatemo_searchbox.png);
 }
 таблица стилей агента пользователя
 div {
@@ -556,7 +556,7 @@ body {
     font-weight: 700;
     outline: none;
     text-align: center;
-    background: url(templatemo_menu_divider.png) right center no-repeat;
+    background: url(images/templatemo_menu_divider.png) right center no-repeat;
 }
 a, a:link, a:visited {
     color: #666;
@@ -605,7 +605,7 @@ li {
     font-weight: 700;
     outline: none;
     text-align: center;
-    background: url(templatemo_menu_divider.png) right center no-repeat;
+    background: url(images/templatemo_menu_divider.png) right center no-repeat;
 }
 a, a:link, a:visited {
     color: #666;
@@ -693,7 +693,7 @@ li {
     font-weight: 700;
     outline: none;
     text-align: center;
-    background: url(templatemo_menu_divider.png) right center no-repeat;
+    background: url(images/templatemo_menu_divider.png) right center no-repeat;
 }
 a, a:link, a:visited {
     color: #666;
@@ -815,7 +815,7 @@ body {
     font-weight: 700;
     outline: none;
     text-align: center;
-    background: url(templatemo_menu_divider.png) right center no-repeat;
+    background: url(images/templatemo_menu_divider.png) right center no-repeat;
 }
 a, a:link, a:visited {
     color: #666;
@@ -889,7 +889,7 @@ div {
     height: 840px;
     height: 200px;
     padding: 35px 60px;
-    background: url(templatemo_middle.png) no-repeat;
+    background: url(images/templatemo_middle.png) no-repeat;
 }
 таблица стилей агента пользователя
 div {
@@ -1015,7 +1015,7 @@ a:-webkit-any-link {
     height: 840px;
     height: 200px;
     padding: 35px 60px;
-    background: url(templatemo_middle.png) no-repeat;
+    background: url(images/templatemo_middle.png) no-repeat;
 }
 таблица стилей агента пользователя
 div {
@@ -1025,7 +1025,7 @@ div {
 #templatemo_main_top {
     width: 960px;
     height: 12px;
-    background: url(templatemo_main_top.png) no-repeat top;
+    background: url(images/templatemo_main_top.png) no-repeat top;
 }
 таблица стилей агента пользователя
 div {
@@ -1034,7 +1034,7 @@ div {
 
 #templatemo_main {
     width: 960px;
-    background: url(templatemo_main_middle.png) repeat-y;
+    background: url(images/templatemo_main_middle.png) repeat-y;
 }
 таблица стилей агента пользователя
 div {
@@ -1043,7 +1043,7 @@ div {
 
 #templatemo_main {
     width: 960px;
-    background: url(templatemo_main_middle.png) repeat-y;
+    background: url(images/templatemo_main_middle.png) repeat-y;
 }
 таблица стилей агента пользователя
 div {
@@ -1226,7 +1226,7 @@ div {
 
 #product_slider {
     padding: 40px 30px 80px 30px;
-    background: url(templatemo_slider.png) bottom center no-repeat;
+    background: url(images/templatemo_slider.png) bottom center no-repeat;
 }
 таблица стилей агента пользователя
 div {
@@ -1285,7 +1285,7 @@ ul {
 .sidebar_menu li {
     margin: 0;
     padding: 2px 0 3px 15px;
-    background: url(templatemo_list_01.png) no-repeat scroll 0 8px;
+    background: url(images/templatemo_list_01.png) no-repeat scroll 0 8px;
     border-bottom: 1px dotted #ccc;
 }
 таблица стилей агента пользователя
@@ -1311,7 +1311,7 @@ a:-webkit-any-link {
 .sidebar_menu li {
     margin: 0;
     padding: 2px 0 3px 15px;
-    background: url(templatemo_list_01.png) no-repeat scroll 0 8px;
+    background: url(images/templatemo_list_01.png) no-repeat scroll 0 8px;
     border-bottom: 1px dotted #ccc;
 }
 таблица стилей агента пользователя
@@ -1689,7 +1689,7 @@ a, a:link, a:visited {
 .add_to_cart {
     display: inline-block;
     padding-right: 30px;
-    background: url(cart.png) no-repeat right center;
+    background: url(images/cart.png) no-repeat right center;
 }
 таблица стилей агента пользователя
 a:-webkit-any-link {
@@ -1734,7 +1734,7 @@ div {
 
 #templatemo_main {
     width: 960px;
-    background: url(templatemo_main_middle.png) repeat-y;
+    background: url(images/templatemo_main_middle.png) repeat-y;
 }
 таблица стилей агента пользователя
 div {
@@ -1744,7 +1744,7 @@ div {
 #templatemo_footer {
     width: 940px;
     padding: 60px 10px 20px;
-    background: url(templatemo_main_bottom.png) top no-repeat;
+    background: url(images/templatemo_main_bottom.png) top no-repeat;
 }
 таблица стилей агента пользователя
 div {
@@ -2022,7 +2022,7 @@ center {
 #templatemo_footer {
     width: 940px;
     padding: 60px 10px 20px;
-    background: url(templatemo_main_bottom.png) top no-repeat;
+    background: url(images/templatemo_main_bottom.png) top no-repeat;
 }
 таблица стилей агента пользователя
 div {
@@ -2038,7 +2038,7 @@ div {
     display: block;
 }
 #home {
-    background-image: url(templatemo_body_home.png);
+    background-image: url(images/templatemo_body_home.png);
 }
 body {
     margin: 0;
@@ -2165,4 +2165,71 @@ body {
     background-color: #f7f7f7;
     background-repeat: repeat-x;
     background-position: top;
+}
+.add_to_cart {
+    display: inline-block;
+    padding-right: 30px;
+    background: url(images/cart.png) no-repeat right center;
+}
+a.more:hover {
+    background: #333;
+    text-decoration: none;
+}
+a.more {
+    display: inline-block;
+    padding: 3px 10px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #21bdd0;
+    background: #e9e9e9;
+}
+a:hover {
+    text-decoration: underline;
+}
+a, a:link, a:visited {
+    color: #666;
+    font-weight: normal;
+    text-decoration: none;
+}
+.float_r {
+    float: right;
+}
+таблица стилей агента пользователя
+a:-webkit-any-link:active {
+    color: -webkit-activelink;
+}
+element.style {
+}
+a, a:link, a:visited {
+    color: #666;
+    font-weight: normal;
+    text-decoration: none;
+}
+.add_to_cart {
+    display: inline-block;
+    padding-right: 30px;
+    background: url(images/cart.png) no-repeat right center;
+}
+таблица стилей агента пользователя
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.product_gallery {
+    margin-bottom: 60px;
+    text-align: center;
+}
+body {
+    margin: 0;
+    padding: 0;
+    color: #666;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 13px;
+    line-height: 1.4em;
+    background-color: #f7f7f7;
+    background-repeat: repeat-x;
+    background-position: top;
+}
+element.style {
 }
